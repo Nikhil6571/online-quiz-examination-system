@@ -33,3 +33,27 @@ The application allows users to attempt MCQ-based quizzes with a fixed timer, au
 ---
 
 ## 📂 Project Structure
+Online-Quiz-System
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+---
+
+## 🧠 Key Concepts Implemented
+- DOM Manipulation
+- Event Handling
+- Timers (setInterval)
+- Randomization (Fisher–Yates Shuffle)
+- Client-side storage (localStorage)
+- Version control using Git
+
+---
+
+## 👤 Author
+Nikhil Rai
+- GitHub: https://github.com/Nikhil6571
+
+
